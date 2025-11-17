@@ -1,2 +1,2 @@
 # CSharpExercices
-C# repository of tests and examples of more advanced solutions in C#. The master branch contains only the readme.md file, then branch exercises contains the excercises, then the branch solutions-examples contain the solved problems.
+This branch contains folders with exercises. Each exercise contains readme file with description, the test project to test the solution and the empty solution project to work on. Create new branch of this branch with name solution-{customName} where you will work on your solution. The branch solution-example is to show possible solution of the problem.
