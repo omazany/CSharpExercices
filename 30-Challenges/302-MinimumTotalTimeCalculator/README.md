@@ -1,4 +1,4 @@
-# Minimal Processing Time Calculator
+# Minimum Total Time Calculator
 
 ## Instructions
 
@@ -16,8 +16,6 @@ Each article takes a **constant time unit** to process (e.g., 1 time unit per ar
 When a customer approaches an available cashier, they begin processing their articles. The cashier becomes occupied for the duration it takes to process all of the customer's articles.
 
 **Your task:** Calculate the **minimum total time** required to process all customers in the queue, given the number of available cashiers.
-
-The solution must use a **priority queue** data structure to efficiently assign customers to the cashier that will be free earliest.
 
 ## Example
 
