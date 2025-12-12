@@ -1,4 +1,3 @@
-@ -1,22 +0,0 @@
 namespace MinimumTotalTimeCalculator;
 
 /// <summary>
