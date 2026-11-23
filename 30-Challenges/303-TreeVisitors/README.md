@@ -53,5 +53,7 @@ The visitors return `24`, `40`, and `15`, respectively.
 
 ## Run the tests
 
-Run `dotnet test TreeVisitors.sln` from this directory. The exercise methods
-initially throw `NotImplementedException`; implement them to pass the tests.
+Run `dotnet test TreeVisitors.sln` from this directory. This branch contains a
+sample implementation; the exercises branch contains the starter code. The
+builder uses breadth-first traversal and takes O(n) time and space. Each visitor
+takes O(n) time for a traversal and stores O(1) visitor state.
